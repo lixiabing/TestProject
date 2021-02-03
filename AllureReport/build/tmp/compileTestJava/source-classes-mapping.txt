@@ -1,0 +1,2 @@
+allure_reports/AllureReporting.java
+ allure_reports.AllureReporting
